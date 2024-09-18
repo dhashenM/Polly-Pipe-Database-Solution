@@ -1,0 +1,18 @@
+E:\MVS Projects\Polly Pipe\Polly Pipe\bin\Debug\Polly Pipe.exe.config
+E:\MVS Projects\Polly Pipe\Polly Pipe\bin\Debug\Polly Pipe.exe
+E:\MVS Projects\Polly Pipe\Polly Pipe\bin\Debug\Polly Pipe.pdb
+E:\MVS Projects\Polly Pipe\Polly Pipe\obj\Debug\Polly Pipe.csproj.AssemblyReference.cache
+E:\MVS Projects\Polly Pipe\Polly Pipe\obj\Debug\Polly_Pipe.Customer_Details.resources
+E:\MVS Projects\Polly Pipe\Polly Pipe\obj\Debug\Polly_Pipe.Form1.resources
+E:\MVS Projects\Polly Pipe\Polly Pipe\obj\Debug\Polly_Pipe.Installation_Details.resources
+E:\MVS Projects\Polly Pipe\Polly Pipe\obj\Debug\Polly_Pipe.Installation_Equipment_Details.resources
+E:\MVS Projects\Polly Pipe\Polly Pipe\obj\Debug\Polly_Pipe.Properties.Resources.resources
+E:\MVS Projects\Polly Pipe\Polly Pipe\obj\Debug\Polly_Pipe.Form2.resources
+E:\MVS Projects\Polly Pipe\Polly Pipe\obj\Debug\Polly Pipe.csproj.GenerateResource.cache
+E:\MVS Projects\Polly Pipe\Polly Pipe\obj\Debug\Polly Pipe.csproj.CoreCompileInputs.cache
+E:\MVS Projects\Polly Pipe\Polly Pipe\obj\Debug\Polly Pipe.exe
+E:\MVS Projects\Polly Pipe\Polly Pipe\obj\Debug\Polly Pipe.pdb
+E:\MVS Projects\Polly Pipe\Polly Pipe\obj\Debug\Polly_Pipe.Installation_Staff_Details.resources
+E:\MVS Projects\Polly Pipe\Polly Pipe\obj\Debug\Polly_Pipe.Installation_Staff_Management.resources
+E:\MVS Projects\Polly Pipe\Polly Pipe\obj\Debug\Polly_Pipe.PollyPipeLogin.resources
+E:\MVS Projects\Polly Pipe\Polly Pipe\obj\Debug\Polly_Pipe.PollyPipeRecordSelection.resources
